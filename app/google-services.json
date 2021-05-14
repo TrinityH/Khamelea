@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529053820979",
+    "project_id": "khamelea",
+    "storage_bucket": "khamelea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529053820979:android:b0aad9ff03983a8d725b46",
+        "android_client_info": {
+          "package_name": "com.example.khamelea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529053820979-6mpilqfm144rip5afhe81jiknnk3e5iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgCG8-94Swe8sgysD2Nf7hY95Z8uZXVqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529053820979-6mpilqfm144rip5afhe81jiknnk3e5iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
